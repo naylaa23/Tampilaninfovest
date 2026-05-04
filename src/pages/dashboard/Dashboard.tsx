@@ -14,7 +14,7 @@ type SpeakerItem = {
 };
 
 const stats: Stat[] = [
-  { title: "Kategori", value: 10 },
+  { title: "Kategori.", value: 10 },
   { title: "Event", value: 25 },
   { title: "Pembicara", value: 8 },
   { title: "Event Aktif", value: 5 },
